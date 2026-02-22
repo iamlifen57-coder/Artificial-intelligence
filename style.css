@@ -1,4 +1,4 @@
-/* Скидання стилів */
+<link rel="stylesheet" href="css/style.css">/* Скидання стилів */
 * {
     margin: 0;
     padding: 0;
@@ -131,3 +131,4 @@ footer {
         padding: 20px;
     }
 }
+
